@@ -1,2 +1,3 @@
 secrets.json
 DS.store
+.streamlit/secrets.toml
